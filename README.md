@@ -1,5 +1,18 @@
-# ECG-Signal-Acquisition-Processing-System
+# ECG signal acquisition: Analog front-end 
 This project presents a complete Electrocardiogram (ECG) signal acquisition system, covering both analog front-end design and digital signal processing.
+
+Electrocardiography (ECG) is the electrical measurement of heartbeat activity. ECG test can be performed 
+easily since the electrical signals produced by the cardiac muscles are much higher than the other 
+Electrophysiological signals. The ECG waveform can be used to reliably determine the anomalies of a 
+heartbeat by analyzing various frequency components of the signal. For a healthy person, the normal 
+heart rate is between 60 to 100 beats per minute.  
+This continuous electrical activity during the heartbeats can be non-invasively recorded by attaching three 
+disposable adhesive Ag/AgCl electrodes on the chest region as depicted in Figure 1. Amplifier signal input 
+and the reference are attached approximately 10 cm apart while the ground electrode is placed a few 
+centimeters below the right shoulder
+
+<img width="522" height="259" alt="image" src="https://github.com/user-attachments/assets/6cca93aa-0830-49c4-b80e-40213ed1dff4" />
+
 
 ## Key Features
 - 📡 Real-time ECG signal acquisition
@@ -30,3 +43,5 @@ Voltage Level Shifter
 Clean ECG Output
 ```
 ## Circuit 
+![ecg](https://github.com/user-attachments/assets/2540f141-797e-495d-babc-103a5eadc84e)
+
