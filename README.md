@@ -16,6 +16,7 @@ This project presents a complete Electrocardiogram (ECG) signal acquisition syst
 
 ## 🔌 Analog Front-End Design
 
+```
 Electrodes
    ↓
 Instrumentation Amplifier
@@ -27,3 +28,4 @@ Low Pass Filter (< 40 Hz)
 Voltage Level Shifter
    ↓
 Clean ECG Output
+```
