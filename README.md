@@ -2,10 +2,10 @@
 This project presents a complete Electrocardiogram (ECG) signal acquisition system, covering both analog front-end design and digital signal processing.
 
 ## Key Features
-> 📡 Real-time ECG signal acquisition
-> 🔊 Low-noise analog front-end design
-> ⚙️ Instrumentation amplifier implementation
-> 📉 Analog filtering (HPF + LPF)
+- 📡 Real-time ECG signal acquisition
+- 🔊 Low-noise analog front-end design
+- ⚙️ Instrumentation amplifier implementation
+- 📉 Analog filtering (HPF + LPF)
 
 📊 ECG Signal Basics
 <img width="1002" height="872" alt="image" src="https://github.com/user-attachments/assets/d98c8e04-45ef-4af2-a2be-e698c1c63078" />
