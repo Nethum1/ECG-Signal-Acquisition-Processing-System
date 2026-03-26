@@ -42,6 +42,6 @@ Voltage Level Shifter
    ↓
 Clean ECG Output
 ```
-## Circuit 
+---
 ![ecg](https://github.com/user-attachments/assets/2540f141-797e-495d-babc-103a5eadc84e)
 
